@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.hello {
+  padding: 50px;
+}
+img {
+  border: 10px solid rgb(38, 187, 174);
+  border-radius: 40px;
+}
+h1 {
+  font-size: 80px;
+  color: blueviolet;
+}
+div .test {
+  background-color: aquamarine;
+  border: 7px outset rgba(16, 164, 83, 0.39);
+  border-radius: 40px 0px 40px 40px;
+}
